@@ -1,0 +1,11 @@
+{
+    "name": "ozapplabs",
+    "compatibility_date": "2025-11-27",
+    "assets": {
+        "directory": "./dist"
+    },
+    "vars": {
+        "VITE_SUPABASE_URL": "",
+        "VITE_SUPABASE_ANON_KEY": ""
+    }
+}
