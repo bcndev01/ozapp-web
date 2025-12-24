@@ -19,7 +19,7 @@ export interface PolicySection {
 
 export interface AppData {
   id: string;
-  name: string; 
+  name: string;
   tagline: LocalizedText;
   description: LocalizedText;
   iconUrl: string;
@@ -32,4 +32,5 @@ export interface AppData {
   version: string;
   lastUpdated: LocalizedText;
   privacyPolicy: PolicySection[];
+  eula?: PolicySection[];
 }

@@ -38,7 +38,7 @@ const Home: React.FC = () => {
             </div>
           </div>
         </div>
-        
+
         <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce hidden md:block">
           <ArrowDown className="text-gray-600 h-6 w-6" />
         </div>
@@ -53,7 +53,7 @@ const Home: React.FC = () => {
               {t('ourAppsDesc')}
             </p>
           </div>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {apps.map((app) => (
               <AppCard key={app.id} app={app} />
@@ -61,29 +61,26 @@ const Home: React.FC = () => {
           </div>
         </div>
       </section>
-      
+
       {/* Stats Section */}
       <section className="py-20 border-t border-white/5">
-         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-               <div className="p-6">
-                 <div className="text-4xl font-bold text-white mb-2">500K+</div>
-                 <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsDownloads')}</div>
-               </div>
-               <div className="p-6">
-                 <div className="text-4xl font-bold text-white mb-2">4.8</div>
-                 <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsRating')}</div>
-               </div>
-               <div className="p-6">
-                 <div className="text-4xl font-bold text-white mb-2">50+</div>
-                 <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsCountries')}</div>
-               </div>
-               <div className="p-6">
-                 <div className="text-4xl font-bold text-white mb-2">7/24</div>
-                 <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsSupport')}</div>
-               </div>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+            <div className="p-6">
+              <div className="text-4xl font-bold text-white mb-2">500K+</div>
+              <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsDownloads')}</div>
             </div>
-         </div>
+
+            <div className="p-6">
+              <div className="text-4xl font-bold text-white mb-2">50+</div>
+              <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsCountries')}</div>
+            </div>
+            <div className="p-6">
+              <div className="text-4xl font-bold text-white mb-2">7/24</div>
+              <div className="text-gray-500 text-sm uppercase tracking-wider">{t('statsSupport')}</div>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   );

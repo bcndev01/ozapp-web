@@ -1,0 +1,242 @@
+[
+    {
+        "id": "flicksr",
+        "name": "Flicksr: Photo Cleaner",
+        "tagline": {
+            "en": "Liberate Your Gallery with Flicksr! 🚀",
+            "tr": "Flicksr ile Galerini Özgürleştir! 🚀"
+        },
+        "description": {
+            "en": "Is your phone storage always full? Do you feel lost among thousands of photos? Flicksr turns cleaning your gallery from a chore into a fun game!",
+            "tr": "Telefon hafızanız sürekli dolu mu? Binlerce fotoğraf arasında kaybolmuş gibi mi hissediyorsunuz? Flicksr, galeri temizlemeyi bir angarya olmaktan çıkarıp eğlenceli bir oyuna dönüştürüyor!"
+        },
+        "category": {
+            "en": "Utilities",
+            "tr": "Araçlar"
+        },
+        "rating": 5.0,
+        "reviewsCount": 120,
+        "version": "1.0.0",
+        "lastUpdated": {
+            "en": "Dec 24, 2025",
+            "tr": "24 Aralık 2025"
+        },
+        "downloadLink": "#",
+        "iconUrl": "/assets/apps/flicksr/icon.png",
+        "screenshots": [
+            "/assets/apps/flicksr/screenshot1.jpg",
+            "/assets/apps/flicksr/screenshot2.jpg",
+            "/assets/apps/flicksr/screenshot3.jpg"
+        ],
+        "features": [
+            {
+                "title": {
+                    "en": "Swipe to Clean",
+                    "tr": "Kaydır ve Temizle"
+                },
+                "description": {
+                    "en": "Just like your favorite apps! Swipe right if you like the photo, swipe left to delete it. Making decisions has never been this fast.",
+                    "tr": "En sevdiğiniz uygulamalar gibi! Fotoğrafı beğendiyseniz sağa, silmek istiyorsanız sola kaydırın. Karar vermek hiç bu kadar hızlı olmamıştı."
+                },
+                "iconName": "Smartphone"
+            },
+            {
+                "title": {
+                    "en": "Eliminate Clutter",
+                    "tr": "Dağınıklığı Yok Et"
+                },
+                "description": {
+                    "en": "Blurred photos, screenshots, duplicates... Get rid of them all in seconds.",
+                    "tr": "Bulanık fotoğraflar, ekran görüntüleri, benzer kareler... Hepsinden saniyeler içinde kurtulun."
+                },
+                "iconName": "Zap"
+            },
+            {
+                "title": {
+                    "en": "Free Up Space",
+                    "tr": "Yer Açın"
+                },
+                "description": {
+                    "en": "Reclaim gigabytes of storage by clearing out unnecessary media. Make room for new memories.",
+                    "tr": "Gereksiz medyaları temizleyerek gigabaytlarca depolama alanı kazanın. Yeni anılara yer açın."
+                },
+                "iconName": "Database"
+            },
+            {
+                "title": {
+                    "en": "Safe",
+                    "tr": "Güvenli"
+                },
+                "description": {
+                    "en": "Deleted photos go to the 'Recently Deleted' folder first, so you don't have to worry about making mistakes.",
+                    "tr": "Silinen fotoğraflar önce 'Son Silinenler' klasörüne gider, bu yüzden hata yapma endişesi taşımazsınız."
+                },
+                "iconName": "Shield"
+            }
+        ],
+        "privacyPolicy": [
+            {
+                "title": {
+                    "en": "1. Information We Collect",
+                    "tr": "1. Topladığımız Bilgiler"
+                },
+                "content": {
+                    "en": "1.1. Photo and Video Data\nFlicksr is designed to help you organize and clean your photo gallery. We do not upload your photos or videos to any server. All photo processing, analysis, and deletion operations are performed locally on your device.\n\n1.2. Usage Data\nWe may collect anonymous usage data to help us improve the App. This data does not identify you personally and may include device type, OS version, and general usage statistics.",
+                    "tr": "1.1. Fotoğraf ve Video Verileri\nFlicksr, fotoğraf galerinizi düzenlemenize ve temizlemenize yardımcı olmak için tasarlanmıştır. Fotoğraflarınızı veya videolarınızı herhangi bir sunucuya yüklemeyiz. Tüm işlemler cihazınızda yerel olarak gerçekleştirilir.\n\n1.2. Kullanım Verileri\nUygulamayı geliştirmemize yardımcı olması için anonim kullanım verileri toplayabiliriz. Bu veriler sizi kişisel olarak tanımlamaz ve cihaz tipi, işletim sistemi sürümü gibi genel istatistikleri içerebilir."
+                }
+            },
+            {
+                "title": {
+                    "en": "2. How We Use Your Information",
+                    "tr": "2. Bilgilerinizi Nasıl Kullanıyoruz"
+                },
+                "content": {
+                    "en": "Since we do not collect personal data or upload your media to the cloud, our use of information is strictly limited to:\n\n- Providing the Service: Enabling the App to function on your device.\n- Improving the App: Using anonymous crash reports and usage statistics to fix bugs and enhance performance.",
+                    "tr": "Kişisel veri toplamadığımız veya medyanızı buluta yüklemediğimiz için bilgi kullanımımız şunlarla sınırlıdır:\n\n- Hizmeti Sağlama: Uygulamanın cihazınızda, tarama ve silme gibi işlevlerini yerine getirmesini sağlama.\n- Uygulamayı Geliştirme: Hataları düzeltmek ve performansı artırmak için anonim raporları kullanma."
+                }
+            },
+            {
+                "title": {
+                    "en": "3. Permissions",
+                    "tr": "3. İzinler"
+                },
+                "content": {
+                    "en": "The App requires access to your Photo Library to function. This permission is required to display your photos and videos and to perform deletion requests. You can revoke this permission at any time in your device settings, but the App will not function without it.",
+                    "tr": "Uygulamanın çalışması için Fotoğraf Kitaplığınıza erişmesi gerekir. Bu izin, fotoğraflarınızı görüntülemek ve silme işlemlerini gerçekleştirmek için gereklidir. Bu izni istediğiniz zaman cihaz ayarlarından kaldırabilirsiniz, ancak Uygulama bu izin olmadan çalışmayacaktır."
+                }
+            },
+            {
+                "title": {
+                    "en": "4. Third-Party Services",
+                    "tr": "4. Üçüncü Taraf Hizmetler"
+                },
+                "content": {
+                    "en": "We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. We may use trusted third-party services for standard app analytics (e.g., Apple's built-in analytics), which are subject to their own privacy policies.",
+                    "tr": "Kişisel olarak tanımlanabilir bilgilerinizi dış taraflara satmıyoruz veya transfer etmiyoruz. Kendi gizlilik politikalarına tabi olan güvenilir üçüncü taraf hizmetlerini (örneğin Apple'ın yerleşik analitiği) standart uygulama analitiği için kullanabiliriz."
+                }
+            },
+            {
+                "title": {
+                    "en": "5. Data Security",
+                    "tr": "5. Veri Güvenliği"
+                },
+                "content": {
+                    "en": "Your security is our priority. Since your photos and videos remain on your device and are not transmitted to our servers, the security of your media is tied to the security of your device and iCloud account.",
+                    "tr": "Güvenliğiniz önceliğimizdir. Fotoğraflarınız ve videolarınız cihazınızda kaldığı ve sunucularımıza iletilmediği için, medyanızın güvenliği cihazınızın ve iCloud hesabınızın güvenliğine bağlıdır."
+                }
+            },
+            {
+                "title": {
+                    "en": "6. Children’s Privacy",
+                    "tr": "6. Çocukların Gizliliği"
+                },
+                "content": {
+                    "en": "Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.",
+                    "tr": "Uygulamamız 13 yaşın altındaki kimseye hitap etmemektedir. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz."
+                }
+            },
+            {
+                "title": {
+                    "en": "7. Changes to This Privacy Policy",
+                    "tr": "7. Değişiklikler"
+                },
+                "content": {
+                    "en": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.",
+                    "tr": "Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişikliği bu sayfada yeni Gizlilik Politikasını yayınlayarak size bildireceğiz. Herhangi bir değişiklik için bu Gizlilik Politikasını periyodik olarak gözden geçirmeniz önerilir."
+                }
+            }
+        ],
+        "eula": [
+            {
+                "title": {
+                    "en": "1. Grant of License",
+                    "tr": "1. Lisansın Verilmesi"
+                },
+                "content": {
+                    "en": "Subject to your compliance with the terms of this Agreement, We grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install, and use the Application on a mobile device that you own or control, solely for your personal, non-commercial purposes.",
+                    "tr": "Bu Sözleşmenin hükümlerine uymanız kaydıyla, Uygulamayı sahip olduğunuz veya kontrol ettiğiniz bir mobil cihaza indirmeniz, yüklemeniz ve kullanmanız için size sınırlı, devredilemez, alt lisans verilemez, iptal edilebilir bir lisans veriyoruz; bu lisans yalnızca kişisel ve ticari olmayan amaçlarınız içindir."
+                }
+            },
+            {
+                "title": {
+                    "en": "2. Restrictions on Use",
+                    "tr": "2. Kullanım Kısıtlamaları"
+                },
+                "content": {
+                    "en": "You agree not to modify, reverse engineer, resell, or distribute the Application. You must maintain all proprietary notices.",
+                    "tr": "Uygulamayı değiştirmemeyi, tersine mühendislik yapmamayı, yeniden satmamayı veya dağıtmamayı kabul edersiniz. Tüm mülkiyet bildirimlerini korumalısınız."
+                }
+            },
+            {
+                "title": {
+                    "en": "3. Intellectual Property",
+                    "tr": "3. Fikri Mülkiyet"
+                },
+                "content": {
+                    "en": "The Application and all related intellectual property rights remain the sole and exclusive property of the Company.",
+                    "tr": "Uygulama ve ilgili tüm fikri mülkiyet hakları Şirketin tek ve münhasır mülkiyetinde kalır."
+                }
+            },
+            {
+                "title": {
+                    "en": "4. Your Content",
+                    "tr": "4. İçeriğiniz"
+                },
+                "content": {
+                    "en": "You retain ownership of your photos and content. We do not claim ownership, and your content is processed locally.",
+                    "tr": "Fotoğraflarınızın ve içeriğinizin mülkiyeti sizde kalır. Sahiplik iddia etmiyoruz ve içeriğiniz yerel olarak işleniyor."
+                }
+            },
+            {
+                "title": {
+                    "en": "5. Updates",
+                    "tr": "5. Güncellemeler"
+                },
+                "content": {
+                    "en": "We may update the Application with patches or new features without liability.",
+                    "tr": "Uygulamayı yamalar veya yeni özelliklerle herhangi bir sorumluluk kabul etmeksizin güncelleyebiliriz."
+                }
+            },
+            {
+                "title": {
+                    "en": "6. Privacy Policy",
+                    "tr": "6. Gizlilik Politikası"
+                },
+                "content": {
+                    "en": "Your use is subject to our Privacy Policy, which you consent to by using the App.",
+                    "tr": "Kullanımınız, Uygulamayı kullanarak kabul ettiğiniz Gizlilik Politikamıza tabidir."
+                }
+            },
+            {
+                "title": {
+                    "en": "7. Disclaimer",
+                    "tr": "7. Feragatname"
+                },
+                "content": {
+                    "en": "THE APP IS PROVIDED 'AS IS' WITHOUT WARRANTY. WE ARE NOT RESPONSIBLE FOR ACCIDENTAL PHOTO LOSS. PLEASE BACK UP YOUR DATA.",
+                    "tr": "UYGULAMA 'OLDUĞU GİBİ' VE GARANTİSİZ SUNULMAKTADIR. KAZARA FOTOĞRAF KAYIPLARINDAN SORUMLU DEĞİLİZ. LÜTFEN VERİLERİNİZİ YEDEKLEYİN."
+                }
+            },
+            {
+                "title": {
+                    "en": "8. Limitation of Liability",
+                    "tr": "8. Sorumluluk Sınırlaması"
+                },
+                "content": {
+                    "en": "WE SHALL NOT BE LIABLE FOR INDIRECT OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE APP.",
+                    "tr": "UYGULAMAYI KULLANIMINIZDAN DOĞAN DOLAYLI VEYA SONUÇSAL ZARARLARDAN SORUMLU TUTULAMAYIZ."
+                }
+            },
+            {
+                "title": {
+                    "en": "9. Termination",
+                    "tr": "9. Fesih"
+                },
+                "content": {
+                    "en": "This agreement terminates if you fail to comply. Upon termination, delete the App.",
+                    "tr": "Bu sözleşme kurallara uymazsanız sona erer. Fesih durumunda Uygulamayı silin."
+                }
+            }
+        ]
+    }
+]
